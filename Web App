@@ -1,0 +1,5 @@
+import streamlit as st
+
+st.title("My First Streamlit App")
+st.subheader("Introducing Streamlit in Automate Everything in Python.")
+st.write("THis is my first Web App. Enjoy it!")
